@@ -1,0 +1,14 @@
+{
+  "name": "casino-checker",
+  "version": "1.0.0",
+  "description": "casino url checker",
+  "main": "index.js",
+  "scripts": {
+    "check": "node ./index.js"
+  },
+  "author": "serge@polishchuk.com",
+  "license": "ISC",
+  "dependencies": {
+    "jsonpath": "^1.1.1"
+  }
+}
